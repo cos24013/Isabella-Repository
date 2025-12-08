@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Isabella Costello's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Isabella Costello
+Biology, Bioinformatics
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
